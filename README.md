@@ -1,4 +1,7 @@
+![OneFixer](https://github.com/user-attachments/assets/6a364268-2a6c-4853-8498-42856f08d477)
+
 # OneFixer
+
 
 OneFixer es una herramienta para eliminar claves duplicadas de OneDrive en el registro de Windows.
 
