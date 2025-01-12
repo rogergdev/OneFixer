@@ -4,6 +4,7 @@
 
 
 OneFixer es una herramienta para eliminar claves duplicadas de OneDrive en el registro de Windows.
+Si tienes duplicada tu carpeta del OneDrive dentro del explorador de Windows, lo corrige de forma segura.
 
 ---
 
